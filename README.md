@@ -60,7 +60,7 @@ GenAI_Assignment/
 ### 🔹 Installation
 
 ```bash
-git clone <my-repo-link>
+git clone [<my-repo-link>](https://github.com/aasthasehgal16/GenAI-Assignment)
 cd GenAI_Assignment
 pip install -r requirements.txt
 ```
