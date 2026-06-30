@@ -1,0 +1,20 @@
+Q: What is Artificial Intelligence?
+Original: B, Swapped: A
+Flip: True
+
+Q: What is Machine Learning?
+Original: B, Swapped: A
+Flip: True
+
+Q: What is Deep Learning?
+Original: B, Swapped: A
+Flip: True
+
+Q: Explain Overfitting
+Original: B, Swapped: A
+Flip: True
+
+Q: What is NLP?
+Original: B, Swapped: A
+Flip: True
+
