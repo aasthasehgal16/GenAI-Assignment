@@ -9,7 +9,8 @@ This project implements a simple vector search system using FAISS. It simulates 
 - Similarity search
 - Basic retrieval system
 
-##  Project Structure
+## 📁 Project Structure
+
 GenAI_Assignment/
 │
 ├── main.py # Main execution script
@@ -20,7 +21,7 @@ GenAI_Assignment/
 │
 ├── screenshots/ # Output screenshots
 │ ├── query_output.png
-│ ├── reingest.png
+│ └── reingest.png
 │
 └── submission_template.docx # Final submission document
 
