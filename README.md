@@ -59,12 +59,14 @@ GenAI_Assignment/
 
 ### 🔹 Installation
 
-```bash
+
 git clone <my-repo-link>
 cd GenAI_Assignment
 pip install -r requirements.txt
 python main.py
 
-### Author
+
+### 👤 Author
+
 Aastha Sehgal
 
