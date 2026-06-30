@@ -63,8 +63,16 @@ GenAI_Assignment/
 git clone <my-repo-link>
 cd GenAI_Assignment
 pip install -r requirements.txt
+```
+---
 
+```markdown id="y0t9yt"
+```
+---
 
+## 👤 Author
+
+**Aastha Sehgal**
 
 
 
