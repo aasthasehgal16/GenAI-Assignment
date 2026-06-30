@@ -11,19 +11,21 @@ This project implements a simple vector search system using FAISS. It simulates 
 
 ## 📁 Project Structure
 
+```
 GenAI_Assignment/
 │
-├── main.py # Main execution script
-├── dataset.py # Sample dataset
-├── results.txt # Evaluation results
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
+├── main.py                  # Main execution script
+├── dataset.py               # Sample dataset
+├── results.txt              # Evaluation results
+├── requirements.txt         # Dependencies
+├── README.md                # Project documentation
 │
-├── screenshots/ # Output screenshots
-│ ├── query_output.png
-│ └── reingest.png
+├── screenshots/             # Output screenshots
+│   ├── query_output.png
+│   └── reingest.png
 │
 └── submission_template.docx # Final submission document
+```
 
 ---
 
